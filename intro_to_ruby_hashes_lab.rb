@@ -49,7 +49,7 @@ def monopoly_with_third_tier
       {
         #"mortgage_value"=>"$400"
       },
-      :shortline=>
+      :shortline_railroad=>
       {
         #"mortgage_value"=>"$800"
       }
